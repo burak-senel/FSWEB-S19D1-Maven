@@ -12,7 +12,7 @@ import lombok.NoArgsConstructor;
 @Data
 @AllArgsConstructor
 @Entity
-@Table(name="vegetable",schema = "fsweb_s19_d1")
+@Table(name="vegetable",schema = "fsweb")
 public class Vegetable {
 
     @Id
